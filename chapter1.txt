@@ -1,3 +1,4 @@
 HI this is my first file created for learning git concepts 
 Hi this is me again making some changes on VIM editor through the console
 s
+Hey again today I take some time doing a new branch and adding this extra text on chapter 1 just to play around with branches in git 
